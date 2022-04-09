@@ -1,1 +1,1 @@
-# simply diagrams
+# simply diagrams for project docs
